@@ -1,13 +1,18 @@
 .nome{
+    font-size: 100px;
     color: rgb(255, 255, 255);
+    background-color: rgb(19, 53, 53);
+    
 }
 
 body{
     background-color: #15AEB8;
+    
 }
 
 .julito{
     font-size: 10px;
+    
 }
 
 .julitos{
@@ -16,4 +21,12 @@ body{
 
 .pet shop{
     font-size: 90px;
+}
+
+.Recreacao{
+    font-size: 30px;
+}
+
+.lista{
+    font-size: 30px;
 }
